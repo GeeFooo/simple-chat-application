@@ -12,8 +12,8 @@ How to Connect :
 5. Run the client file by typing in command : python client.py
 6. It will ask to enter IP address , so you just enter the IP address you got from server just now.
 7. Once you done enter IP address on client , then press enter.
-8. Go back to server and hit enter again.
+8. Go back to server.
 9. It will shows : [IP]Has connected to the server and is now online
-10. Then its done , you can send message from server and go back to client , send back the messages to server.
-
-11. Have Fun !
+10. Then its done , you can send message START from server and go back to client , then send messages client to server.
+11. Keep repeat and enjoy how it works.
+12. Have Fun !
